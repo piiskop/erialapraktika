@@ -37,3 +37,17 @@ Elektroskoobi valmistamise juhend oli meil ingliskeelne *Measure Static Electric
 Elektromagnetismi temaatikas on abiks the Physics Classroom[@thephysicsclassroom_2019_the], kus on nii variatsiooniülesanded kui lahendid. Aga see on ingliskeelne keskkond.
 
 Elektrivoolu õpetamiseks valisin veel ingliskeelse allika Conductors, Insulators, and Electron Flow[@a2019_conductors], mida ma siiski käiku ei lasknud.
+
+Kontrolltööde ülesannete jaoks kasutasin mitut ülesannete kogu. Olin septembris nimetatud postitusnimekirja kaudu saanud teabe ühe Viljandi kooli kohta, et seal kantakse hulganisti füüsikatavaari maha. Niisiis sõitsin Viljandisse, ladusin oma auto laeni täis ja ägan siiamaani selle koorma all, sest enamiku vahendite puhul ei tea, milleks neid kasutada saab, ja ühe seadmega lülitus ka keldris ülepinge kaitse välja. Veel sama päeva pimedas ajas sõitsin läbi ühe teise, nüüd juba endise füüsikaõpetaja kodu juurest ja tassisin autosse nii palju füüsika- ja keemiaraamatuid, kui jaksasin. Esitan siinkohal nende raamatute loetelu, mille kas soetasin kirjeldatud viisil või mis mul olid juba varasemalt olemas ja mida kasutasin:
+
+1. DEMKOVITŠ, V. *Füüsika küsimuste ja ülesannete kogu*: Coulomb' seadus[@demkovit_1968_fsika, lk 90],
+
+2. Gladkova, R. and Dobronravov, V. and Ždanov, L. and Tsodikov, F. *FÜÜSIKA ülesannete ja küsimuste kogu tehnikumidele*: laengute vastikune mõju[@gladkova_1985_fsika, lk 125-128],
+
+3. Kogan, B. *Ülesandeid FÜÜSIKAST*: Coulomb' seadus[@kogan_1976_lesandeid, lk 83],
+
+4. Oleg Kabardin *Koolifüüsika käsiraamat*: elektrodünaamika näidisülesanne[@olegkabardin_1990_koolifsika, lk 173] ja tsitaat:
+
+  > Iga aatom koosneb teatavasti positiivse laenguga elektronidest[@olegkabardin_1990_koolifsika, lk 114]. ja
+  
+5. Boriss Buhhotsev and Juri Klimontovitš and Gennadi Mjakišev *Füüsika*: elektrostaatika ülesanded[@borissbuhhotsev_1988_fsika, lk 116].

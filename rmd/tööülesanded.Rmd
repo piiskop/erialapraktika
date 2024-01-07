@@ -186,8 +186,70 @@ Füüsika meetodi testi järgselt muus koolis valmistasin esitluse Kohila Gümna
 
 ## Arutelu
 
-Kuna töölepingu algushetkest esimese õppesessioonini oli veidi üle nädala, siis polnud võimalik kõiki läbiviidavaid kursuseid täiel määral plaanida ega ette valmistada. Seetõttu valmistasin koolipäevade plaane ette ühekaupa. Kui koolipäev oli läbi, asusin ette valmistama järgmist koolipäeva.
+Eriala praktikaga seostan järgmised Tallinna Ülikoolis läbitud või läbimises olevad kursused:
 
-Füüsika meetodi kursuse osas võtsin aluseks õppekavas olevad teemad ja leidsin nendele otsese vastavuse @physics's
+1. digipädevus ja akadeemilised väljendusoskused,
 
-Kui Ako minu õpetaja oli, meeldis mulle tema süstemaatilisus. Tal oli igaks õppesessiooniks uus teema koos mitmevärviliste slaididega ja iga nädal saime testida oma teadmisi-oskusi Moodle's olevate ülesannetega. Tahtsin oma õpilastele pakkuda sarnast süsteemsust, aga aeg seadis oma piirid.
+2. õppimine ja õpetamine keemias,
+
+3. soojusõpetus,
+
+4. akustika muusikas: inimhäältest pillideni,
+
+5. füüsikaline maailmapilt ning
+
+6. üldmõõtmised loodusteadustes.
+
+Digipädevuse ja akadeemiliste väljendusoskuste kursuses õppisin kasutama välisviiteid, nende haldamise keskkondi ja ehitama üles väljundit vastavalt eeskirjale. Omandatud teadmisi-oskusi kandsin õpilastele edasi eksperimentide protokollide vormistamise kaudu. Mul oli plaan teha õpilastega mitu eksperimenti. Siiski juba esimene eksperiment - elektroskoobi valmistamine - osutus raporteerimise mõttes enamikule üle jõu käivaks. Kui vormistuse suhtes ma rangeid piiranguid ei seadnud, siis sisu osas ei tohtinud protokoll jama sisaldada. Püüti liiga lihtsalt läbi saada jättes selgitamata teooriaosa, millest paistnuks välja, kas õpilane sai aru, mida üldse tegi. Kui siis teooriaosa täiendati, selgus vahel, et ei oldudki aru saadud. Seetõttu korraldasin ühe ekstra sessiooni selgitamaks üksnes elektroskoopiat tekitades tahvlile kompaktselt enne- ja pärast-skeemid induktsiooni, konduktsiooni ja maandamise kohta oodates õpilastelt nende skeemide märkimist oma konspekti ja hiljem protokolli. Vähesed lisasid neid skeeme. Kuna mina neile polnud eksperimendi protokolli vormistamist õpetanud, siis tuli mul ka seda teha. Üks õpilaste klassijuhataja soovitas mul latt alla lasta. Vastasin, et ma pigem teen lõpus eraldi sessiooni, milles on võimalus igal õpilasel oma protokoll korda saada. Kuna eksperimendi protokollimine on teaduse tähtis osa ja füüsika on fundamentaalne loodusteadus, siis tähendaks lati allalaskmine rumalamaid õpilasi, kes arvavad, et rohkemat neilt oodata ei tohigi.
+
+Õppimine ja õpetamine keemias oli abiks seeläbi, et me olime ülikoolis korra reaalselt üht keemiateemat gümnasiastidele õpetanud. Kuna toona kasutasin Plickersit, siis tegin seda ka nüüd. Kümnenda taseme esimene füüsika kursus on *Sissejuhatus. Kulgliikumise kinemaatika*. Selle sissejuhatav osa koosneb füüsika määratlusest ja füüsika meetodist. Kuna füüsika määratluse puhul pole midagi praktilist teha, vaid ainult arutleda, siis otsustasin luua valikvastustega küsimused õpilastele ning neidsamu küsimusi kasutada vahetult enne ja vahetult pärast teema käsitlemist. Kasutasime selleks *Plickers*i kaarte. Tulemused toona ja nüüd olid sarnased. Osa õpilasi vastas pärast paremini, osa õpilasi kehvemini. Sarnase tulemuseni jõudsime elektromagnetismi üldsõnalises osas.
+
+Soojusõpetuse kursus seostus kõige rohkem mikro- ja megamaailma kursuse pindpinevuse teemaga.
+
+Kõige enam rakendasin enda õpitut akustika kursuse puhul. Kuna füüsika ja tehnika kursus koosneb valikmoodulitest, siis lasin õpilastel esimeses sessioonis valida neid huvitavad teemad. Kuna neli moodulit olid kahe rühma õpilastel samad, siis kahega nendest moodulitest ka alustasime. Esimesena võtsime ette aero- ja hüdrodünaamika ja selles keskkonna takistusjõu. Plaan oli läbi viia eksperiment, mille olin varem ülikoolis läbi viinud ja hakkasin selle jaoks vahendeid kokku otsima. Sööklas tööõpetuse õpetajaga arutelu päädis tema poolt mulle üleantud tikutopsiga, milles laagritest pärit kuulid. See temaatika on @physics's laiali. Esmalt võtsime ette kiirusest sõltuvad jõud: takistus- ja lõpliku kiiruse. Oli huvitav selgitada, et langevate esimete kiirus suureneb kuni lõpliku kiiruseni, samuti vastavat valemit tuletada kasutades 12. klassitasemel värskelt õpitud integreerimist. See tekitas tegusaimate õpilaste seas kohese vastumeelsuse, kuna nad pidid pingutama, et aru saada. Siiski sai neile kõik arusaadavaks, sest nad esitasid järjepanu küsimusi, kuidas ühest asjast teine saadi. Kuna ülejäänud mooduli teemad tundusid olevat seotud vooliste peatükiga ja vooliste peatükk oli mul põhikursuse peatükk, siis otsustasin jätkata esimese mooduliga pärast selle peatüki esimeste osade käsitlemist põhikursuses. Järgmisena võtsimegi ette elastsuslained ja ilma selgitamata, mis on elastsuslaine, sukeldusime akustikasse, mille kohta on @physics's eraldi peatükk *Heli*. Tassisin kaasa plokkflöödi. Kohapeal oli kitarr. Õpikus on praktilised arvutusülesanded ja valemite tuletuskäigud, mille tegin tahvlile läbi. Neid sai siis ilmestada pillidega. Ükskord ei jäänud üks edumeelne õpilane rahule, et ei suutnud õppesessioonis lahendini jõuda. Nii jäime üheskoos arutlema veel järgmiseks sessiooniks, kuni lahend oli käes.
+
+Kui füüsikalise maailma pildi õpetaja Ako Sauga mind õpetas, meeldis mulle tema süstemaatilisus. Tal oli igaks õppesessiooniks uus teema koos mitmevärviliste slaididega ja iga nädal saime testida oma teadmisi-oskusi Moodle's olevate ülesannetega. Tahtsin oma õpilastele pakkuda sarnast süsteemsust, aga aeg seadis oma piirid.
+
+Kui ma ülikoolis üldmõõtmisi loodusteadustes õppisin, tegin kõik kaasa ja küsisin detailide kohta, mille kohta vahel õpetaja Tõnu Laas jagas selgitusi, vahel mitte. Nii jäigi mõni osa segaseks. Kuna kursuse hinne oli mitteeristav, siis piisas ka ainult poole kursuse läbimisest ja nii ma ka tegin. Tõnu konspekt tundus mulle vigane ja igav. Nüüd, kui õpetasin ise mõõtemääramatust, ei jäänud mul muud üle kui teema endale korralikult selgeks teha. Kasutasin selleks nii inglis- kui prantsuskeelseid allikaid. Ühes oli selgitatud ühtmoodi, teises teistmoodi. Lõpuks tundus kunagine vihatud Tõnu konspekt kõige selgemana. Valmistasin oma esialgse mõõtemääramatuse arvutamise juhendi osaliselt selle järgi. Tahtsin teha näited eri mõõtevahendite kohta.
+
+Kuna ma polnud ülikoolis kõiki gümnaasiumifüüsika kursuseid läbinud, sai mu õpetamine toimuda kahasse iseõppimisega. Kuna töölepingu algushetkest esimese õppesessioonini oli veidi üle nädala, siis polnud võimalik kõiki läbiviidavaid kursuseid täiel määral plaanida ega ette valmistada. Seetõttu valmistasin koolipäevade plaane ette ühekaupa. Kui koolipäev oli läbi, asusin ette valmistama järgmist koolipäeva.
+
+Õppesessiooni ettevalmistamine toimus niimoodi, et vaatasin esmalt eKoolist järele, kuhu olime viimati jõudnud, lugesin @physics'st juurde, märkisin kava enda konspekti koos viidetega. Kui vastav osa oli läbitud, siis tõlkisin ja lahendasin ka ülesanded ning andsin õpilastele lahendada. Ühe \num{45}-\unit{\minute} sessiooni ettevalmistamine kestis mul tavaliselt kauem kui sessioon ise. Pidasin oluliseks endale teema hästi selgeks saada. Kuigi enamus õpilasi olid jäänud oma arengus põhikoolitasemele, siis võinuksin küll ka lihtsamate selgitustega piirduda, ent kasulikum oli kohe anda õpilastele õige selgitus. Kord üks õpilane küsis, miks on dielektriline konstant dielektriline, ja ma arvasin, et *di-* on nagu läbiv ja seetõttu. Alles hiljem oskasin talle seletada, et see tähendab elektrilist läbitavust mitteelektrikutes. Ma polnud sellele ülikoolis õppides mõelnud. See on vaid üks näide, kuidas õpetamise kaudu ma õppisin kõige rohkem.
+
+Ainsa kontrolltöö, mille jõudsin praktikaperioodis läbi viia, ettevalmise tegin ka põhjaliku koostades õpilastele võimalikult palju erinevaid ülesandeid, et vältida üksteise pealt mahakirjutamist. See tähendas hiljem olulist ajakulu hindamises ja tagasisidestamises. Õpilaste jaoks, kes läksid järelvastamisse paremat hinnet nõutama, koostasin omakorda uued ülesanded ja mõistagi tuli need läbi lahendada ja hiljem õpilase sooritus hinnata.
+
+Harv polnud olukord, mil sain vahetult enne koolipäeva algust magada üksnes tunni. Kuna koolis olid mul kuus sessiooni järjest, siis oli see aeg tegevusi täis ja nii ma koolis õpetades väga väsimust ei tundnud, kuigi olin uimas. Alles pärast koolipäeva lõppu autos olles kasutasin võimalust juhtimaks liiklusvahendi jõe juurde, et saada ülekehalist värskendust jahedas jõevees enne pooletunnist tagasisõitu, mis vahel sisaldas endas tunnist tukkumispausi parklas, sest ma ei jõudnud autost väljuda. Kuna ma sellises rütmis jätkasin ka pärast praktikaperioodi, jõudsin aasta viimaseks päevaks läbipõlemisse ehk keha haigestus kolmandat korda uude moodsasse haigusse, mille sümptomitest taastun siiamaani, kui seda aruannet kirjutan.
+
+Soovisin alguses kasutada võimalikult palju praktilisi vahendeid, kuna Kohila Gümnaasiumis neid jätkus. Paraku kulus õpilaste turgutamisele arvutusülesannetega liigselt aega. Minu kui õpetaja ootus oli, et vastava taseme õpilastel on vastav teadmiste-oskuste tase. Kui selgus, et lausa 12. taseme õpilastel oli vajaka seitsmenda taseme matemaatika oskusi, siis ei saanud me ometi seda probleemi jätta tähele panemata, ja tuli vastavad lüngad täita.
+
+Teisest küljest õpetasin õpilastele matemaatikavõtteid, millega nad alles oluliselt hiljem matemaatikakursuses kokku puutuvad. Nt on vaja õppekava järgi mõista $E$-vektorit ja superpositsiooni. Nii ma neile õpetasin vektorite liitmist ja vektorarvutust tuletades meelde trigonomeetriat. Kinemaatikat on nii palju lihtsam mõista, kui mõistetakse tuletist. Ja isegi veel varem tuli minul tuletis mängu: nimelt mitme sisendiga mõõtemääramatuse arvutamises. Nii et seda õpetasin ma neile ka. Tuletise puhul selgitasin olemust, näitasin põhivalemi, tuletasin mõned otseteed, ülejäänud andsin ette.
+
+Õpetamise kestel tundsin hästi suurt puudust erialasest lõimimisest. Juba mainisin, milliseid matemaatika tööriistu füüsika jaoks liiga hilja käsitletakse. Ometi ei ole neil riistu võimalik matemaatikakursuses ka varem käsitleda, kuna vahepeal on veel hulganisti vahendeid, mis vaja selgeks saada, mis aitavad nende tööriistade kasutamist mõista. Seega oleks mõistlik viia läbi kõik gümnaasiumi matemaatikakursused esimese aastaga jättes viimased kaks aastat rakendusteadusteks.
+
+Seoses lõimimisega tajusin, kuidas õpilased ei oska seostada võõrkeele kasutamist konkreetse õpivaldkonnaga. Õpilane, kes kiitles oma inglise keele oskusega, keeldus õppimast ühe käe näppudel loendatavat arvu erialaseid termineid, et lahendada ingliskeelsed arvutusülesanded.
+
+Puudu on Kohila Gümnaasiumis ühistest aruteludest nende vahel, kellel on probleem, ja nende vahel, kes saavad aidata. Praeguse süsteemi järgi tähendab abi seda, et kui tagurlik õpilane otsib võimalusi mitteõppimiseks, siis talle neid ka võimaldatakse ja karistada saab õpetaja. Seda aetakse hoolekogu, direktori ja õppejuhi kaudu.
+
+Jäin väga rahule oma mentoriga, kes on lisaks muljetavaldavale praktilisele pädevusele füüsikaõpetamise valdkonnas meeldiv inimene. Tema kirjeldas mulle olukordi, mis olid tal varem ette tulnud, andis nõu, tema soovituste järgi talitasin.
+
+Sain Kohila Gümnaasiumis oma esimese füüsikaõpetamise kogemuse ja neid kogemusi soovin ohtralt juurde hankida, kuigi mitte enam nii tervist kahjustaval moel ja loodetavasti keskkonnas, milles õpetajat väärtustatakse ja õpilaste tegelik tase kirjutatule vastab.
+
+Kirjutan järgnevalt, kuidas ma õpetatud kursuseid edaspidi õpetaksin.
+
+Füüsika meetodi kursuse arutelu teemade puhul ei muudaks ma esialgu midagi. Mõõtmise järjekorra osas lähtuksin omavalmistatud skeemist[@kalmer_3]. Koostaksin ise eestikeelsed reeglid ja  variatsiooniülesanded. SI puhul tutvustaksin ikkagi ametlikku brošüüri, sest selle ametlikud keeled on prantsuse ja inglise keel. Teeksin eraldi harjutuse terminite kohta võõrkeeltes. Õppekavas ei ole dimensionaalanalüüsi, mis on siiski abiks valemite kontrollimises. Dimensioonid on SI osa ja seetõttu õpetaksin selle analüüsi ikkagi. Mõõtemääramatuse arvutamise kohta olen praeguse raporti kirjutamise ajaks kirjutanud tervikjuhendi ja järgiksin seda. Viiksin läbi vähemalt kahe sessiooni jagu mõõtmiseksperimente, et õpilased saaksid kõik eri olukorrad kaetud. Leian, et mõõtmise osa on baas, mis peab olema selge, et edaspidi lahendada korrektselt arvutusülesandeid ja koostada eksperimentide protokolle. Selleks võiks isegi kogu õppekavas kirjeldatud praktilise osa katta.
+
+Elektromagnetismi õpetamises lähtuksin valemite komplekssusest, nii et alustaksin võimalikult lihtsa valemiga ja liiguksin edasi sammhaaval kompleksemate valemitega kasutades enda skeeme[@fsikakonstandid; @elektromagnetism].
+
+Mikro- ja megamaailma õpetamises alustasin ma @physics'i järjekorrast ja selles oli kõige varasem õppekava teema pindpinevus, mille paremaks selgitamiseks otsustasin üle käia ka kõik eelnevad osad samas peatükis, mis, nagu selgus, on põhikooli teemad, kuigi õpilased ei olnud neid voolisteasju õppinud, vaid põhikoolis oli neil põhirõhk asetatud elektrile. Edaspidi ma ei kulutaks aega eeldusteemadele isegi, kui need on läbimata, sest muidu ei jõuaks põhiteemasid korralikult käsitleda.
+
+Füüsika ja tehnika kursuses ei ootaks ma põhikursuse teemade käsitlemise lõppu, vaid asuksin kohe mooduli teemade kallale. Elastsuslainete mooduli põhjal jõuaks kuue nädalaga läbida viiendiku mooduli teemasid.
+
+Kuna ma ei teadnud, kui kaua mingi teema käsitlemiseks aega kulub, siis toimetasin rahulikult vastavalt @physics'le. 
+
+kontrolltööd kui sageli
+
+
+füüsika ja tehnika põhjal 20% saab kaetud
+
+
+pildid
