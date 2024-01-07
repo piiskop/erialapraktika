@@ -1,0 +1,39 @@
+# Kirjandus
+
+Oma kursuste loomiseks kasutasin nii enda poolt eelnevalt kogemuslikult sobilikke kui töö käigus ette juhtunud õppeallikaid.
+
+Üks mu lemmikõpetajaid on Walter Lewin, kes soovitas[@a802] oma üliõpilastele Douglas Giancoli õpikut *PHYSICS for SCIENTISTS and ENGINEERS*[@physics]. Aasta oli siis \num{2020} ja õpiku teisend, mida ta näitas, kolmas. Mina kasutan viiendat väljalaset. Selles on õpilase- ja õpetajasõbralik kujundus ja sisu. Õpik sisaldab hulganisti enesekontrolli küsimusi ja ülesandeid, millest osadele on esitatud lahend. Selle õpiku kasutamisega lõimisin looduseuurimise õppesse inglise keelt. Ülesanded iseseisvaks harjutamiseks pärinesid sellest õpikust.
+
+Kui ma füüsikaõpetamist alustasin, otsustasin siiski hakata järgima hoopis sama autori õpikut *Physics (principles) (7th Ed)*[@giancoli], sest selles ei ole kalkulust, mida õpitakse gümnaasiumiastme kahe viimase aasta matemaatikakursustes. Douglas Giancoli nimetatud õpikud on sarnase ülesehitusega. Iga peatükk koosneb osadest, millele järgneb peatüki kokkuvõte koos küsimuste ja arvutusülesannetega. Peatüki osas kirjeldatakse sõnaliselt teemat. Märksõnad on tähistatud jämedalt. Tekst on illustreeritud asjakohaste ja ilusate piltide ja tabelitega. Rõhuasetused on külgribal. Teksti saadavad kontseptuaalsed näited ja lihtsalt näited. Peatükki läbib kaheksa valikvastustega kontseptuaalset ülesannet, millele on peatüki lõpus lahendid olemas. Peatüki lõpus olevatele arvutusülesannetele on paarituarvulistele õpiku lõpus lahendid olemas. Douglas Giancoli õpikute puudus Kohila Gümnaasiumis seisnes keeles - mõlemad õpikud on ingliskeelsed.
+
+Kuigi Douglas Giancoli õpikute sisu on põhjalik, selgitused piisavad, ei kata need siiski kõiki Eesti õppekavas olevaid teemasid. Nt on põhjusliku seose kohta ainult üks lõik ja see on hoopis muu teema käsitlemise juures[@giancoli, lk 128].
+
+Ako Sauga konspektist[@fsikaline] andsin vahel õpilastele iseseisvat lugemist. Tegemist on Tallinna Ülikooli integreeritud loodusteaduste esimese semestri füüsikalise maailma pildi kursuse konspektiga, millesse on kompaktselt koostatud ülevaade kõikidest põhi- ja keskkooli füüsikateemadest.
+
+Opik.fyysika.ee[@pikud] sisaldab hulganisti eestikeelseid füüsikaõpikuid, mida saavad õpilased kasutada täiendavaks lugemiseks ja harjutamiseks. Nende seas on *Sissejuhatus füüsikasse. Kulgliikumise kinemaatika*[@ebook], *Elektromagnetism gümnaasiumile*[@ebook-elektromagnetism] ning *Mikro- ja megamaailma füüsika*[@ebook-mikro-mega-maailm] sobilikud vastavalt kümnenda, 11. ja 12. taseme esimese füüsikakursuse jaoks. Need teosed on ilmselt koostatud vastavalt üldisele õppekavale. Mõnel õpilasel oli vastav õpik olemas paberkujul. Opik.fyysika.ee õpikutest andsin õpilastele vahel lisalugemist. Nendes õpikutes on küll teemakäsitlus vastavalt õppekavale, kuid selgitused jätavad sageli vajaka. Probleeme on navigeerimisega. Samuti eksisteerib nendes õpikutes hulgaliselt vigu, mida ka jõudumööda raporteerisin keskkonna haldurile, kes mulle ka vastas ja osa asju korda tegi. Välja paistab püüdlus lihtsustada füüsikaõpet ja selleks on kaasatud karikaturisti kassipildid, mis kohati tunduvad seosetud ja selleks, et illustratsioon lisada. Õpikutes esineb siiski ka asjakohaseid tabeleid ja jooniseid, millest on õppimises kasu. Meeldiv on näha peatükkide lõpus mõistete loetelu ja selgitusi.
+
+Eestikeelsetes e-õpikutes on põhjalik ülevaade üldprintsiipidest, mida Douglas Giancoli õpikud ei kätke. Samas on ingliskeelsetes õpikutes ühikutevaheline teisendamine arusaadavamalt esitatud kui eestikeelsetes.
+
+Kuna sissejuhatuses füüsikasse on käsitletud teaduste piirid, oli hea välja otsida juba seitsmenda taseme õpilastele matemaatikakursuses näidatud kümne astmete video[@powers]. See videokeskkond - YouTube - sisaldab palju õpetlikke audiovisuaalseid teoseid, mille seast tuleb osata sobilikud välja valida. 
+Parim füüsikaõpetaja Ameerikas on minu meelest mr.p, kelle Flipping Physics[@flipping] aitab kindlasti paremini mõista paljusid füüsikateemasid. Ometi on tema teosed ingliskeelsed ja see võib olla mõnele eesti õpilasele takistuseks. FloatHeadPhysics aitab selgitada ujuvust[@a4]. Vetthülgavuse ja õhurõhu mõõtmise demonstreerimiseks kasutasin ülikoolis enda valmistatud audiovisuaalset teost[@elavhbe].
+
+Füüsika meetodi kursuse osa on mõõtemääramatus. See teema oli mulle ebaselge ja ei saanud ma seda ka ülikooli üldmõõtmiste loodusteadustes kursuse raames piisavalt selgeks, mistõttu sattusin alati ärevusse, kui praktikumi raportisse oli mõõtemääramatus vaja sisse arvutada. Jäi mulje kui hästi keerulisest protseduurist. nagu selgus, siis see ongi hästi keeruline protseduur. Eestikeelsetes e-õpikutes käsitletakse mõõtemääramatust liiga pealiskaudselt. Sedapuhku leidsin, et üks hea allikas mõõtemääramatuse õpetamiseks ongi mu enda ülikooliõpetaja Tõnu Laane konspekt *Üldmõõtmised loodusteadustes*[@mtmised].
+
+Teine hea allikas mõõtemääramatuse selgitamiseks on Stephanie Belli *The Beginner’s Guide to Uncertainty of Measurement*[@mgpg11pdf]. Aga see on ingliskeelne.
+
+Kolmas hea allikas mõõtemääramatuse selgitamiseks on *1.2 La mesure et son interpré tation*[@12]. Aga see on prantsuskeelne.
+
+Tõnu siiski ei seleta, mis need tüvenumbrid on. Douglas seletab, aga ei käsitle kõiki tüvenumbrite reegleid ning ajab pisut oma näidetega ka segadusse. Nii et otsisin ja leidsin kompaktse reeglistiku *A Short Guide to Significant Figures*[@sigfigpdf], mille trükkisin välja ja kiletasin. Et teema veel selgemaks saaks, otsisin ja leidsin teise kompaktse reeglistiku *Significant Figures*, milles ka näidisülesanded ja ülesanded lahendamiseks lahenditega[@significantfigurespdf].
+
+Muidugi ei saa füüsikaõpetamises läbi ilma teatmikuta, kust hankida väärtused konstantidele, erinevad heli kiirused, ühikute suhted jm. Ühe koguka teatmikuna kasutasin teost *CRC Handbook of Chemistry and Physics, 95th Edition*[@haynes_2014_crc]. See on küll ka ingliskeelne.
+
+Kiletamiseks ühikute teisendamise valdkonnas leidsin teose *Conversion in the Metric System*, mis sisaldab ka lahenditega ülesandeid[@conversions]. Õpilastele lahendamiseks andsin *Unit Converstion Worksheet*i[@unitconversionworksheetpdf]. *Scientific Notation, Metric System, & Unit Conversion Review Worksheet* koondab mitu füüsika meetodi teemat sisaldades nende kohta ülesanded ja lahendid[@physics_151]. Kasutasin õpilastega.
+
+Le Système international d’unités
+(SI) õpetamiseks leidsin kõige sobivama allikana samanimelise brošüüri originaalallikast[@bureau_1974_the]. Selles selgitatakse süsteemi, esitatakse kõikide seitsme põhiühiku kirjeldused, näited, kirjaviisid valemite ja arvutuskäikude jaoks. Tegemist on kakskeelse teosega: reeglid on prantsuse ja inglise keeles. Eesti keeles on avaldatud METROSERTi poster *Rahvusvahelise mõõtühikute süsteemi SI põhiühikud*[@sipostera4pdf], mille kiletasin. Üks poster kinnitati ka õpperuumi stendile. Kiletamiseks ja ühikute kasutamiseks leidsin plakati *SI BASE UNITS*[@nistsp_1247png]. Harjutamiseks leidsin veel prantsuskeelse *1.1 Le système international (SI)* koos lahenditega[@a11].
+
+Elektroskoobi valmistamise juhend oli meil ingliskeelne *Measure Static Electricity With An Electroscope! | STEM Activity*[@measure]. Heli intensiivsuse ja kõrvakuulmise eksperimentide juhised olid mul siiski võtta eestikeelsed - ülikoolist[@heli; @labor1pdf]. Andsin õpilastele tutvuda minu raportiga[@katrin_2022_akustika].
+
+Elektromagnetismi temaatikas on abiks the Physics Classroom[@thephysicsclassroom_2019_the], kus on nii variatsiooniülesanded kui lahendid. Aga see on ingliskeelne keskkond.
+
+Elektrivoolu õpetamiseks valisin veel ingliskeelse allika Conductors, Insulators, and Electron Flow[@a2019_conductors], mida ma siiski käiku ei lasknud.

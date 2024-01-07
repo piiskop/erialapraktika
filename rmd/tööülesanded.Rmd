@@ -1,0 +1,193 @@
+# Tööülesannete sooritamine
+
+## Tööülesanded
+
+Asusin tööle koormusega \num{0,667}.
+
+Minu tööülesanne oli õpetada füüsikat kahele kümnenda, kahele 11. ja kahele 12. taseme õpilaste rühmale.
+
+Kursused, mida asusin läbi viima, olid füüsika põhiprogrammist *Füüsika meetod*, *Elektromagnetism* ning *Mikro- ja megamaailm*, ning 12. taseme lisakursus *Füüsika ja tehnika*.
+
+Kõiki kursuseid said õpilased kaks korda nädalas korraga ühe sessiooni esmaspäeviti ja reedeti, välja arvatud 12. taseme kursused, millest põhikursus oli esmaspäeviti ja valikkursus reedeti.
+
+Kuna mulle polnud ette antud mitte ühtki õppesessiooni läbiviimise kava, hakkasin kõiki nimetatud kursuseid looma nullist.
+
+Et vaja oli ka õpilasi hinnata, koostasin hindamisjuhendi ja järgisin seda.
+
+Kohustuslik oli ka osaleda kooli poolt organiseeritud koolitustes, mis olid Kiusamisvaba Kooli ja kujundava hindamise teemades.
+
+Erialasektsiooni siseselt osalesin koosolekutes ja ülekooliliselt õppenõukogu koosolekutes.
+
+## Metoodika
+
+Kuna tegemist oli minu esimese füüsikaõpetamisega ja ma pole vastavat pedagoogikat veel õppinud, lähtusin oma varasemast õpetajakogemusest kursuste loomises. Aeg töölepingu esimesest kuupäevast esimese õppesessioonini oli liiga napp selleks, et kõik kursused tervikuna eelnevalt läbi mõelda. Ka polnud ma jõudnud ülikoolis veel kõiki käsitletavaid teemasid õppidagi. Teadsin, et mul on kasutada kasulikud õppeallikad, mille baasil saan kõik kursused läbi viia. Need allikad on abiks, kuni ma oma kursuseid veel piisavalt valmis pole saanud, ja edaspidi täienduseks.
+
+Leian, et tõhus on iga teema puhul käsitleda juppi teooriat, lahendada selle kohta hulganisti arvutusülesandeid ning kontrollida teooriat eksperimentaalselt, enne kui võtta ette järgmine jupp. Samuti peavad jupid olema üksteisega loogiliselt seotud. Iga järgmine jupp võib eeldada eelneva jupi valdamist.
+
+Iseseisvaks lahendamiseks jäetavad arvutusülesanded lahendasin üldjuhul eelnevalt oma virtuaalsele tahvlile lahendatud, et õpilastel oleks võimalik kontrollida ja võrrelda lahendusi[@looduseuurimine].
+
+Igal õpilasel soovitasin kasutusele võtta A4-vormingus ruuduliste lehtedega kaustiku, kuhu õpilane lõi oma konspekti, st märkis üles kõik vajaliku ja kuhu lahendas ka ülesanded. Samuti oli õpilasel vaja eri värvi füüsilisi kirjutusvahendeid ja geomeetriavahendeid. Kalkulaator oli abiks keeruliste arvutuste puhul. Konspekti võis luua ka virtuaalselt, kui õpilasel on graafikatahvel. Sellisel juhul andsin kasutusse minu halduses oleva virtuaaltahvlite keskkonna, et kõik virtuaalsed konspektid oleksid ühes kohas. Viimast võimalust üks välisõpilane ka kasutas.
+
+Kuna iga kontaktsessioon oli vaid \qty{45}{\minute} pikk, siis teadmiste-oskuste kinnistamiseks oli vajalik õpilasel lahendada hulganisti ülesandeid, lugeda, vaadata ja kuulata juurde väljaspool kontaktsessiooni.
+
+Et hallata kõikide oma füüsikakursuste sisu, kalendrit, ülesandeid, teste, hindeid jms, lõin oma konspekti[@kalmer_sissejuhatus], mis on veebis avalikult kättesaadav ka trükiteisendina.
+
+Õpetajaid kohustati esimese kontaktsessiooni kirjeldusse tekitama hindamisjuhendi[@kalmer_1], mis on minu konspekti osa. Lähtusin hindamisjuhendi koostamises kooli hindamise korraldusest[@Koostamise2001-jl].
+
+Kuna eksperiment on terviklik ja selle raport peab sisaldama kõike olulist, siis ei olnud mõtet eksperimentide protokolle eristavalt hinnata, vaid nõudsin kõige olulise olemasolu.
+
+Plaanisin iga alamteema kohta teostada kontrolltöö ja kandsin need ka eKooli[@ekool] päevikutesse kohe alguses sisse.
+
+Mulle on mu enda õppes sümpatiseerinud boonused. Üks boonussüsteem, mille kohaselt saab tegus õpilane oma selgitamistega õppeprotsessis olulise osa kursuse lõpphinnet kätte ja peab eksamis vähem pingutama, on Kert Martma üldkeemia ülesannete lahendamised. Seetõttu juurutasin sarnase süsteemi Kohilasse, kuigi oluliselt tagasihoidlikuma punktiarvestusega, et utsitada õpilasi aktiveeruma.
+
+Et eristavas hindamises on Kohila Gümnaasiumis täisarvulised hinded ühest viieni, mõtlesin kontrolltööde jaoks välja viiest ülesandest koosneva süsteemi, millest esimeses pidi õpilane midagi selgitama, teises midagi tuletama ja ülejäänutes midagi arvutuslikult lahendama. Arvutusülesanded olid kolme raskusastmega. Kõige lihtsama ülesande puhul ei olnud vaja uut valemit kokku panna.
+
+Pidasin oluliseks, et õpilane saaks minu hindamisest aru. Seetõttu pidi õpilane pärast minupoolset hindamist saama oma lehe(d) minu kommentaaridega tagasi, lahendama kõik ülesanded oma konspekti, kommenteerima oma sooritust ja panema ise endale hinde. Seejärel plaanisin sisestada hinde eKooli koos oma põhjaliku tagasisidega iga ülesande lõikes. Kontrolltööde arvutusülesannete näidislahendused plaanisin samuti õpilastele tekitada.
+
+Kuna mulle on hakanud meeldima MathCityMapi[@mathcitymap] kasutamine, siis tahtsin koostada kontrolltöid ka sellega läbimängimiseks välistingimustes. Plaan oli ka valida välja universaalsed ülesanded ja nendest püsirada koostada, mille põhjal taotleda MathCityMapi koolipartnerlust.
+
+Kuna mulle eristav hindamine ei meeldi, sest kui ma ikka olen alles Märjamaas, siis ma ei ole Pärnus ega saa meres supelda, kasutasin valikkursuse puhul võimalust mitteeristavaks hindamiseks.
+
+Oma konspekti kirjutasin üles soovitused õppimiseks[@kalmer_2023_2].
+
+Järgnev osa minu konspektis on *Baasreeglistik*, milles on loogilises järjekorras põhilised sisulised reeglid[@kalmer_3]. Mõned osad, mis muudes õpikutes ei ole piisavalt hästi või on vigaselt seletatud, pidasin vajalikuks korralikult kajastada enda konspektis.
+
+Iga kursuse kohta oma konspektis kirjutasin esmalt õppekavast[@Ainevaldkonna_undated-bs] välja õpitulemused, õppesisu, põhimõisted ja praktilise tegevuse soovituse. Kuna õpetasin ka muus koolis, siis järgnevalt esitasin kummagi kooli kalenderplaani. Iga kontaktsessiooni kohta kirjutasin välja kava, seosed õppekavaga, mida kestvalt muutsin vastavalt tegelikule olukorrale. Tavaliselt valmistasin ühe koolipäeva kaupa ette, sest ajalist varu enamaks polnud.
+
+Konspekti järgmine osa sisaldab ülesandeid iseseisvaks lahendamiseks, mis on kõik @physics'i lahenditega ülesanded, millest kõik, välja arvatud triviaalsed, lahendasin oma virtuaalsele tahvlile.
+
+Kursuse viimane osa minu konspektis on kontrolltööde ülesannete ja testitulemuste päralt.
+
+Eraldi peatükina kirjeldan oma konspektis mõõtmiseksperimendi läbiviimist, kuna eriti just mõõtemääramatuse teema on väga mahukas ja segane[@kalmer_2024_9].
+
+## Tulemused
+
+Osalesin Kiusamisvaba Kooli ja kujundava hindamise koolituses. Võtsin osa uute töötajate orientatsioonisündmusest ning kahest õppenõukogu koosolekust. Osalesin kahes loodusteaduste õpetajate koosolekus.
+
+Praktikalepingu perioodis valmistasin ette ja viisin läbi 13 õppesessiooni eraldi kahele kümnenda taseme rühmale kokku 35 õpilasega, 14 õppesessiooni eraldi kahele 11. taseme rühmale kokku 39 õpilasega, seitse õppesessiooni põhifüüsikas eraldi kahele 12. taseme rühmale kokku 51 õpilasega ja seitse õppesessiooni *Füüsikat ja tehnikat* eraldi kahele 12. taseme rühmale. Tegevused jätkusid pärast praktikaperioodi lõppu.
+
+Valmistasin mõõtmise õppimise struktuuri ja kompaktse mõõtemääramatuse arvutamise eeskirja.
+
+Koostasin konstantide ja ühikute tuletamise skeemi.
+
+Koostasin kinemaatika ja elektromagnetismi käsitletud osade valemite tuletamise ja sõltuvuse skeemi.
+
+Füüsika meetodi osas käsitletud alamteemad:
+
+1. teaduse olemus,
+
+2. tulevikusoovid ja seosed füüsikaga,
+
+3. mudelid, teooriad ja seadused,
+
+4. teaduste piirid,
+
+5. kümne astmed,
+
+6. põhjuslik seos,
+
+7. füüsika üldprintsiibid,
+
+8. ühik,
+
+9. mõõtühikute eesliited,
+
+10. ümardamine,
+
+11. tüvenumbrid,
+
+12. ühikute teisendamine,
+
+13. Le Système international d'unités,
+
+14. dimensionaalanalüüs,
+
+15. tabavus, täpsus, veatüübid ja määramatus (alustasime).
+
+Valmistasin *Plickers*i[@a2020_plickers] testid järgnevate teemade kohta ja kasutasin kaardistamiseks enne ja pärast teemakäsitlust:
+
+1. teaduse olemus,
+
+2. mudelid, teooriad ja seadused.
+
+*Plickers*iga soovisin näha, et pärast teemakäsitlust on samade küsimuste puhul tulemused paremad, kuid see mitte alati nii ei olnud, vaid oli ka kehvemaid tulemusi.
+
+Elektromagnetismi kursuses käsitlesime järgmised alamteemad:
+
+1. staatiline elekter, elektrilaeng ja selle jäävus,
+
+2. elektrilaeng aatomis,
+
+3. isolaatorid ja elektrijuhid,
+
+4. indutseeritud laeng ja elektroskoop,
+
+5. Coulomb' seadus,
+
+6. elektriline aku,
+
+7. elektrivool,
+
+8. induktsioon, konduktsioon, maandamine.
+
+Valmistasin *Plickers*i testid järgnevate teemade kohta ja kasutasin kaardistamiseks enne ja pärast teemakäsitlust:
+
+1. staatiline elekter, elektrilaeng ja selle jäävus,
+
+2. elektrilaeng aatomis,
+
+3. isolaatorid ja elektrijuhid,
+
+4. indutseeritud laeng ja elektroskoop.
+
+Ainsa eksperimendi, mille õppesessioonis läbi viisime, käigus valmistasid õpilased elektroskoope, mille liigitasin kolme kategooriasse: need, mis hästi töötasid, need, mis kesiselt töötasid, ja need, mis ei töötanud. Protokolli suutsid kas kohe või minu tagasiside põhjal korrektselt vormistada ja esitada seitse õpilast.
+
+Esimene kontrolltöö elektromagnetismi kursuses oli sisetingimustes ja selle suutsid kas otse või järelvastamise kaudu vähemalt hindele *3* teha 23 õpilast.
+
+Mikro- ja megamaailma kursuses käsitlesime järgmised alamteemad:
+
+1. aine faasid,
+
+2. tihedus ja eritihedus,
+
+3. pindpinevus ja kapillaarsus,
+
+3. rõhk voolises,
+
+4. atmosfääriline ja manomeetriline rõhk,
+
+5. Pascali põhimõte,
+
+6. rõhu mõõtmine, mõõdikud ja baromeeter.
+
+Füüsika ja tehnika kursuses käsitlesime kahe mooduli teemasid:
+
+1. aero- ja hüdrodünaamika: keskkonna takistusjõud,
+ 
+2. elastsuslained:
+
+ - pikilained,
+ 
+ - heliintensiivsus, detsibellid,
+ 
+ - heli allikad.
+
+Tõlgitud ja läbilahendatud ülesannete arv vastavalt kursusele praktikaperioodis:
+
+- füüsika meetod: 28,
+
+- elektromagnetism: 53,
+
+- mikro- ja megamaailm: 15,
+
+- füüsika ja tehnika: 31.
+
+Füüsika meetodi testi järgselt muus koolis valmistasin esitluse Kohila Gümnaasiumi õpilastele teiste õpilaste vigadest õppimiseks[@quartoinput07e590ee].
+
+## Arutelu
+
+Kuna töölepingu algushetkest esimese õppesessioonini oli veidi üle nädala, siis polnud võimalik kõiki läbiviidavaid kursuseid täiel määral plaanida ega ette valmistada. Seetõttu valmistasin koolipäevade plaane ette ühekaupa. Kui koolipäev oli läbi, asusin ette valmistama järgmist koolipäeva.
+
+Füüsika meetodi kursuse osas võtsin aluseks õppekavas olevad teemad ja leidsin nendele otsese vastavuse @physics's
+
+Kui Ako minu õpetaja oli, meeldis mulle tema süstemaatilisus. Tal oli igaks õppesessiooniks uus teema koos mitmevärviliste slaididega ja iga nädal saime testida oma teadmisi-oskusi Moodle's olevate ülesannetega. Tahtsin oma õpilastele pakkuda sarnast süsteemsust, aga aeg seadis oma piirid.
