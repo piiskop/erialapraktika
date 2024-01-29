@@ -78,7 +78,7 @@
 \usepackage{fdsymbol} % for nequal
 \usepackage{circuitikz}
 
-\pretolerance 16384
+% \pretolerance 16384
 
 \usepackage{gensymb} % \celsius
 
@@ -103,6 +103,8 @@
 
 \usepackage{multicol}
 \setlength{\columnseprule}{1pt}
+\newcommand{\multicolsbegin}{\begin{multicols}{2}}
+\newcommand{\multicolsend}{\end{multicols}}
 
 % for fill-in-the-gaps-tests
 \newlength{\blankwidth}
@@ -113,3 +115,6 @@
 	\makebox[\blankwidth]{\dotfill}}
 
 \usepackage{fontawesome} % for checkboxes
+\usepackage[bidi=default]{babel}
+\babelprovide[main,import]{Estonian}
+% \usepackage[none]{hyphenat}

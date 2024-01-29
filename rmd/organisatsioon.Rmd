@@ -1,5 +1,7 @@
 # Organisatsioon
 
+\multicolsbegin
+
 ## Asukoht
 
 > Rapla maakond, Kohila vald, Kohila alev, Kooli tn 1, 79805[@eriregister].
@@ -8,7 +10,7 @@
 
 > 85313 - Gümnaasiumide tegevus[@eriregister].
 
-## Organisatsiooni struktuur
+## Struktuur
 
 > Kool on munitsipaalkool, kus on põhikool ja gümnaasium, mis tegutsevad ühe asutusena[@Nr_undated-bl, lk 1].
 
@@ -30,3 +32,4 @@ Kohila Gümnaasiumi koolipere koosneb juhtkonnast, tugipersonalist, õpetajatest
 
 Uued õpetajad said omale vastava valdkonna muu õpetaja näol mentori.
 
+\multicolsend

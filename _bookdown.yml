@@ -6,5 +6,6 @@ rmd_files: [
   "rmd/organisatsioon.Rmd",
   "rmd/kirjandus.Rmd",
   "rmd/tööülesanded.Rmd",
+  "rmd/kokkuvõte.Rmd",
   "references.Rmd"
 ]
