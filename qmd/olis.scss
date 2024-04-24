@@ -1,0 +1,36 @@
+/*-- scss:defaults --*/
+
+$body-bg: #fff;
+$body-color: #332f30;
+$link-color: #c6bdbd;
+$presentation-heading-color: #db7878;
+
+/*-- scss:rules --*/
+
+.reveal .slide p{
+  color: #000;
+}
+
+.reveal h2 {
+  color: #b20e10;
+}
+
+.reveal .slide-logo {
+  width: 1397px;
+  height: 351px;
+  max-height: 20% !important;
+  left: 50%;
+  transform: translate(-100%, 0%);
+  -ms-transform: translate(-50%, 0%);
+  -webkit-transform: translate(-50%, -0%);
+  -moz-transform: translate(-50%, 0%);
+  -o-transform: translate(-50%, 0%);
+}
+
+#physics-method-2 ol{
+  text-align: right;
+}
+
+#välised-allikad{
+  height: 80%;
+}

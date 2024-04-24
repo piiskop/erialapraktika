@@ -1,354 +1,551 @@
 ---
 author:
   - name: 'peacecop kalmer:'
+title: Erialapraktika aruanne
+institute: Tallinna Ülikool
+date: 2024-04-29
+
 bibliography: presentation.bib
 csl: ../../apa-numeric-superscript-brackets.csl
-title: |
-    | Individual experiences with
-    | chlorine dioxide solution
-    | (CDS)
+link-citations: yes
+
 output-file: presentation.html
 format:
   revealjs:
-    # chalkboard: true
     incremental: false
-    multiplex:
-      url: 'http://manual-for-rstudio.ons.ee:1948/'
-      secret: "16759825730498538629"
-      socketId: "f3edf0ff0d09982e"
-    # revealjs-plugins:
-    #   - seminar
-    # attributes:
-    #   quarto-reveal:
-    #     data-seminar-remote: true
-    #     data-seminar-controls: true
+    self-contained: true
+    theme: [../olis.scss]
+    slide-number: true
+    logo: ../logos.svg
+multiplex:
+  url: 'http://manual-for-rstudio.ons.ee:1948/'
+  secret: "16759825730498538629"
+  socketId: "f3edf0ff0d09982e"
+language: ../et.yml
 
 ---
 
-## *Quarto*
+## Kus ja millal?
 
-- does not link between files,
-- every presentation is separate,
-- looks so much better than *bookdown*-presentations.
+![Rapla maakond, Kohila vald, Kohila alev, Kooli tn 1, 79805[@eriregister].](../IMG_20231020_170749.jpg)
 
-What version of *Quarto* do I have[@how]?
+> Kool on munitsipaalkool, kus on põhikool ja gümnaasium, mis tegutsevad ühe asutusena[@Nr_undated-bl, lk 1].
 
-```
-quarto check
+2023-08-22 kuni 2023-10-24.
 
-```
+## Tööülesanded
 
-## Setup
+- Koormusega 0,667
 
-1. For every presentation a subfolder inside the subfolder *qmd*.
+- ainsa gümnaasiumiastme füüsikaõpetajana
 
-2. Link to the presentation in *js.js*:
+- õpetada füüsikat kahele kümnenda, kahele 11. ja kahele 12. taseme õpilaste rühmale.
 
-```
-  let nameOfPresentation = "<name-of-presentation>";
-  createLink(div, "presentation-" + nameOfPresentation, nameOfPresentation + ".html", "<The title of the presentation>");
+## Kursused: loetelu
 
-```
+- Füüsika põhiprogrammist
 
-## Preparing for remote controlling
-
-1. Cloning *multiplex* [@a2023_multiplex].
-
-2.  In the *multiplex*'s folder:
-
-    ```
-    npm install reveal-multiplex
-    
-    ```
-    
-3.  Creating the service:
-
-    ```
-    sudo emacs /etc/systemd/system/multiplex.service
-    
-    ```
-    
-4.  Starting the server:
-
-    ```
-    sudo systemctl start multiplex.service
-    
-    ```
-
-5. Directing traffic to port 1948 into the server machine.
-
-## Remote controlling
-
-1.  Configuring:
-
-    ```
-    format:
-  revealjs:
-    multiplex:
-      url: 'http://manual-for-rstudio.tennis24.ee:1948/'
-      secret: "16759825730498538629"
-      socketId: "f3edf0ff0d09982e"
-      
-    ```
-
-2. Opening the main presentation HyperText Markup Language file for the audience.
-
-3. Opening the file with the ending "-speaker.html" for remote controlling.
-
-## Metadata: author
-
-```
-    author:
-      - name: <the name of the first author>
-      - name: '<the name of the second author>'
-    <further names if necessary>
-
-```
-
-## Metadata: title
-
-```
-title: |
-    | <first line of the title>
-    | <second line of the title>
-
-```
-
-## Metadata: output file
-
-```
-    output-file: ../../_book/<the-name-of-the-output-file>.html
-
-```
-
-## Metadata: format
-
-```
-    format:
-      revealjs:
-        incremental: true
-        self-contained: true
-
-```
-
-`incremental: true` displays list items one by one [@quarto]
-
-`self-contained: false` results with missing files or undated content
-
-## Table
-
-```
-| Product | Price |
-|---------|-----:|
-| SET: NaClO2 Mouth Rinse and HCl Hair Rinse      | 25.00   |
-| DMSO (DIMETHYLSULFOXIDE)     | 24.00  |
-
-: The reagents for making CDS with their prices were bought on 2021/05/04.
-
-```
-
-| Product | Price |
-|---------|-----:|
-| SET: NaClO2 Mouth Rinse and HCl Hair Rinse      | 25.00   |
-| DMSO (DIMETHYLSULFOXIDE)     | 24.00  |
-
-: The reagents for making CDS with their prices were bought on 2021/05/04.
-
-## Figures
-
-With a caption:
-
-```
-![Pillikeel ja lainepikkus.](vibstr1.gif)
-
-```
-
-![Pillikeel ja lainepikkus.](vibstr1.gif)
-
-Without a caption:
-
-```
-![](vibstr1.gif)
-
-```
-
-![](vibstr1.gif)
-
-## Managing external references
-
-A separate BIB-file in the subfolder of the presentation with records like this:
-
-```
-@misc{silent,
-  title = {Silent Teacher},
-  url = {https://silentteacher.toxicode.fr/},
-  urldate = {2022-09-29},
-  organization = {silentteacher.toxicode.fr}
-}
-
-```
-
-In the metadata:
-
-```
-    bibliography: <the-name-of-the-presentation>.bib
-
-```
-
-A reference:
-
-```
-@quarto
-
-```
-
-@quarto
-
-```
-[@quarto]
-
-```
-
-[@quarto]
-
-```
-[@quarto(p. 41)]
-
-```
-
-[@quarto(p. 41)]
-
-## List of references at the end
-
-````
-[<The name of the main site>](/)
-
-## External references
-
-```{=tex}
-\hyphenpenalty=10000
-\fontspec{Symbola}
-
-```
-
-````
-
-## List
-
-```
--   no instructions:
-
-    - no formulas,
+  - *Füüsika meetod* kaks korda nädalas,
   
-    - no theorems,
+  - *Elektromagnetism* kaks korda nädalas ning
+  
+  - *Mikro- ja megamaailm* kord nädalas, ning
+  
+- 12\. taseme lisakursus *Füüsika ja tehnika* kord nädalas.
 
--   no explanations
+## Kus need slaidid on? {.nostretch}
+
+```{r label="fig-qr-slides", echo=FALSE, fig.cap="erialapraktika.olis.ee", out.width="80%"}
+librarian::shelf(c(
+  "qrcode"
+))
+code <- qr_code(x="http://erialapraktika.olis.ee/qmd/presentation/presentation.html#/title-slide", ecl="H")
+plot(code)
 
 ```
 
--   no instructions:
+## Tulemused: sessioonid
 
-    - no formulas,
-  
-    - no theorems,
+- 13 õppesessiooni eraldi kahele kümnenda taseme rühmale kokku 35 õpilasega,
 
--   no explanations
+- 14 õppesessiooni eraldi kahele 11. taseme rühmale kokku 39 õpilasega,
 
-## Quantities
+- seitse õppesessiooni põhifüüsikas eraldi kahele 12. taseme rühmale kokku 51 õpilasega ning
 
-- Comma without braces causes a space is not inside braces a space would be added[@a2022_l, lk 146; @a2019_how] (@quantities-incorrect).
+- seitse õppesessiooni *Füüsikat ja tehnikat* eraldi kahele 12. taseme rühmale.
 
-    (@quantities-incorrect) An example of incorrect punctuation:
-    
-      :::: {layout="[ 60, 40 ]"}
-      
-      ::: {#quantities-1}
-  
-      ```
-      $$30,0^{\circ} \ne 30^{\circ}$$
-      
-      ```
-      
-      :::
+## Koolitused
 
-      ::: {#quantities-2}
-      
-      $$30,0^{\circ} \ne 30^{\circ}$$
-      
-      :::
-      
-      ::::
+- Kiusamisvaba Kool,
 
-- Comma with braces causes no space (@quantities-correct).
+- kujundav hindamine.
 
-    (@quantities-correct) An example of correct punctuation:
+Uutele õpetajatele on alguses põhjalik tutvustamine ja testimine.
 
-      :::: {layout="[ 60, 40 ]"}
-      
-      ::: {#quantities-3}
-  
-      ```
-      $$30{,}0^{\circ} \ne 30^{\circ}$$
-      
-      ```
-      :::
+Uued õpetajad said omale vastava valdkonna muu õpetaja näol mentori.
 
-      ::: {#quantities-4}
-      
-      $$30{,}0^{\circ} \ne 30^{\circ}$$
-      :::
-      
-      ::::
+## Muud koosolekud
 
-## Columns
+- Õppenõukogu,
 
-Column layout (@columns)[@quarto-block-layout].
+- eriala sektsioon.
 
-(@columns) An example of column layout:
+## Tulemused: sessiooniväline
+
+- Mõõtmise õppimise struktuur ja kompaktse mõõtemääramatuse arvutamise eeskiri,
+
+- konstantide ja ühikute tuletamise skeem,
+
+- kinemaatika ja elektromagnetismi käsitletud osade valemite tuletamise ja sõltuvuse skeem.
+
+## Tallinna Ülikooli (TLÜ) kursused
+
+1. Digipädevus ja akadeemilised väljendusoskused,
+
+2. õppimine ja õpetamine keemias,
+
+3. soojusõpetus,
+
+4. akustika muusikas: inimhäältest pillideni,
+
+5. füüsikaline maailmapilt ning
+
+6. üldmõõtmised loodusteadustes.
+
+## Ettevalmistamine
+
+- Ühekaupa,
+
+- viidetega kava konspekti,
+
+- ettevalmistamise kestus kauem kui sessioon,
+
+- oluline teema ise selgeks saada,
+
+- lugesin juurde,
+
+- tõlkisin ja lahendasin ülesanded,
+
+- järg eKoolis[@ekool].
+
+## Probleemid
 
 :::: {layout="[50, 50]"}
 
-::: {#columns-1}
+::: {#problems-text-left}
 
-```
-:::: {layout="[ 60, 40 ]"}
+- Uneaeg,
 
-::: {#columns-3}
-first column
+- praktilised ülesanded,
 
-:::
-
-::: {#columns-4}
-second column
+- ühtlustatus matemaatikaga,
 
 :::
 
-::::
+::: {#problems-text-right}
 
-```
+- lõimimine,
 
-:::
+- ühisarutelude puudumine,
 
-::: {#columns-2}
-:::: {layout="[ 60, 40 ]"}
-
-::: {#columns-3}
-first column
-
-:::
-
-::: {#columns-4}
-second column
+- mentorlus.
 
 :::
 
 ::::
 
+![](../IMG_20231016_151036.jpg){height="90%"}
+
+## Minu konspekt[@kalmer_sissejuhatus]
+
+:::: {layout="[50, 50]"}
+
+::: {#own-conspect-1}
+
+- Eksperimentide protokollid,
+
+- testimine,
+
+- boonussüsteem,
+
+- ülesannete raskusastmed,
+
+- hindamine,
+
+- MathCityMap[@mathcitymap],
+
+:::
+
+::: {#own-conspect-2}
+
+- soovitused õppimiseks[@kalmer_2023_2],
+
+- *Baasreeglistik*[@kalmer_3],
+
+- kursuste sisu,
+
+- ülesanded,
+
+- mõõtmiseksperiment[@kalmer_2024_9].
+
 :::
 
 ::::
 
-## External references
+## Metoodika
+
+- Varasem kogemus,
+
+- seotud jupid,
+
+- virtuaalne tahvel[@looduseuurimine],
+
+- õpilaste vahendid.
+
+## Kirjandus: põhiõpikud
+
+:::: {layout="[70, 30]"}
+
+::: {#literature-main-textbooks-list}
+
+- Douglas Giancoli *PHYSICS for SCIENTISTS and ENGINEERS*[@physics],
+
+- Douglas Giancoli *Physics (principles) (7th Ed)*[@giancoli].
+
+:::
+
+::: {#literature-main-textbooks-image}
+
+![](../5th-edition-physics-for-scientists-and-engineers-douglas-giancoli.jpg)
+
+:::
+
+::::
+
+## Kirjandus: eesti põhiteosed
+
+:::: {layout="[30, 70]"}
+
+::: {#literature-et-main-image}
+
+![](../id-2897.v-0.w-1400.jpg)
+
+:::
+
+::: {#literature-et-main-text}
+
+- Ako Sauga konspekt[@fsikaline],
+
+- Opik.fyysika.ee[@pikud],
+
+- *Sissejuhatus füüsikasse. Kulgliikumise kinemaatika*[@ebook],
+
+- *Elektromagnetism gümnaasiumile*[@ebook-elektromagnetism],
+
+- *Mikro- ja megamaailma füüsika*[@ebook-mikro-mega-maailm].
+
+:::
+
+::::
+
+## Audiovisuaalsed teosed
+
+:::: {layout="[70, 30]"}
+
+::: {#audio-video-text}
+
+- Kümne astmete video[@powers],
+
+- Flipping Physics[@flipping],
+
+- FloatHeadPhysics [@a4],
+
+- enda valmistatud audiovisuaalne teos[@elavhbe].
+
+:::
+
+::: {#audio-video-image}
+
+![](../IMG_20220928_134817.jpg)
+
+:::
+
+::::
+
+## Kirjandus: mõõtmine
+
+- Tõnu Laane *Üldmõõtmised loodusteadustes*[@mtmised],
+
+- Stephanie Belli *The Beginner’s Guide to Uncertainty of Measurement*[@mgpg11pdf],
+
+- *1.2 La mesure et son interpré tation*[@a12],
+
+- *A Short Guide to Significant Figures*[@sigfigpdf],
+
+- *Significant Figures*[@significantfigurespdf],
+
+- *CRC Handbook of Chemistry and Physics, 95th Edition*[@haynes_2014_crc].
+
+## Kirjandus: ühikud üldiselt
+
+- *Conversion in the Metric System*[@conversions],
+
+- *Unit Conversion Worksheet*i[@unitconversionworksheetpdf],
+
+- *Scientific Notation, Metric System, & Unit Conversion Review Worksheet*[@physics_151].
+
+## Kirjandus: SI
+
+- Le Système'i international d’unités
+(SI)[@bureau_1974_the],
+
+- METROSERTi *Rahvusvahelise mõõtühikute süsteemi SI põhiühikud*[@sipostera4pdf],
+
+- *SI BASE UNITS*[@nistsp_1247png],
+
+- *1.1 Le système international (SI)*[@a11].
+
+## Kirjandus: eksperimendid
+
+- *Measure Static Electricity With An Electroscope! | STEM Activity*[@measure],
+
+- heli intensiivsuse ja kõrvakuulmise eksperimentide juhised[@heli; @labor1pdf].
+
+- minu raport[@katrin_2022_akustika].
+
+## Kirjandus: simulatsioonid
+
+- ![](../physicsclassroom.png)[@thephysicsclassroom_2019_the],
+
+- Conductors, Insulators, and Electron Flow[@a2019_conductors].
+
+## Kirjandus: ülesanded
+
+:::: {layout="[50, 50]"}
+
+::: {#literature-tasks-1}
+
+- Gladkova, R., Dobronravov, V., Ždanov, L. ja Tsodikov, F. *FÜÜSIKA ülesannete ja küsimuste kogu tehnikumidele*[@gladkova_1985_fsika, lk&nbsp;125-128],
+
+- DEMKOVITŠ, V. *Füüsika küsimuste ja ülesannete kogu*[@demkovit_1968_fsika, lk 90],
+
+:::
+
+::: {#literature-tasks-2}
+
+- Oleg Kabardini *Koolifüüsika käsiraamat*[@olegkabardin_1990_koolifsika, lk 173],
+
+- Boriss Buhhotsevi, Juri Klimontovitši ja Gennadi Mjakiševi *Füüsika*[@borissbuhhotsev_1988_fsika, lk 116],
+
+- Kogan, B. *Ülesandeid FÜÜSIKAST*[@kogan_1976_lesandeid, lk 83].
+
+:::
+
+::::
+
+## Oleg Kabardini tsitaat
+
+> Iga aatom koosneb teatavasti positiivse laenguga elektronidest[@olegkabardin_1990_koolifsika, lk 114].
+
+## Füüsika meetodi teemad
+
+:::: {layout="[50, 50]"}
+
+::: {#physics-method-1}
+
+1. Teaduse olemus,
+
+2. tulevikusoovid ja seosed füüsikaga,
+
+3. mudelid, teooriad ja seadused,
+
+4. teaduste piirid,
+
+5. kümne astmed,
+
+6. füüsika üldprintsiibid,
+
+7. põhjuslik seos,
+
+8. ühik,
+
+:::
+
+::: {#physics-method-2}
+
+9. mõõtühikute eesliited,
+
+10. ümardamine,
+
+11. tüvenumbrid,
+
+12. ühikute teisendamine,
+
+13. SI,
+
+14. dimensionaalanalüüs,
+
+15. veatüübid, määramatus, tabavus ja täpsus (alustasime).
+
+:::
+
+::::
+
+## Füüsika meetod: *Plickers*[@a2020_plickers]
+
+1. Teaduse olemus,
+
+2. mudelid, teooriad ja seadused.
+
+## Probleemne ülesanne {.nostretch}
+
+![Mis on konverteerimises meetrist sekundi kohta miilideks tunni kohta valesti[@physics_151(lk 3)]?](../IMG_20231020_111150.jpg){width="60%"}
+
+## Elektromagnetismi teemad
+
+1. Staatiline elekter, elektrilaeng ja selle jäävus,
+
+2. elektrilaeng aatomis,
+
+3. isolaatorid ja elektrijuhid,
+
+4. indutseeritud laeng ja elektroskoop,
+
+5. Coulomb' seadus,
+
+6. induktsioon, konduktsioon, maandamine,
+
+7. elektriline aku,
+
+8. elektrivool.
+
+## Elektromagnetism: Plickersi testid
+
+1. Staatiline elekter, elektrilaeng ja selle jäävus,
+
+2. elektrilaeng aatomis,
+
+3. isolaatorid ja elektrijuhid,
+
+4. indutseeritud laeng ja elektroskoop.
+
+## Vektorarvutus ja pikad valemid
+
+![Kolme punktlaengu mõju eri sihtides tõusunurga arvutamise osani, milles väärtused eeskirja järgi sisestatud[@physics(lk 617)].](../21-4-10b.jpg)
+
+## Elektroskoobid
+
+1. Hästi töötasid,
+
+2. kesiselt töötasid, ja
+
+3. ei töötanud.
+
+> Elektrostaatikat saime pulga sisse seda hõõrudes elektrostaatikat võimelise ülekandega riiet.
+
+## Elektromagnetism: esimene test
+
+- Sisetingimustes,
+
+- otse või järelvastamise kaudu vähemalt hindele *3* 23 õpilast.
+
+## Mikro- ja megamaailma teemad
+
+1. Aine faasid,
+
+2. tihedus ja eritihedus,
+
+3. pindpinevus ja kapillaarsus,
+
+3. rõhk voolises,
+
+4. atmosfääriline ja manomeetriline rõhk,
+
+5. Pascali põhimõte,
+
+6. rõhu mõõtmine, mõõdikud ja baromeeter.
+
+## Füüsika ja tehnika teemad
+
+1. Aero- ja hüdrodünaamika: keskkonna takistusjõud,
+ 
+2. elastsuslained:
+
+ - pikilained,
+ 
+ - heliintensiivsus, detsibellid,
+ 
+ - heli allikad.
+
+## Probleemne ülesanne
+
+![Esitatud on keele pikkuse, lainepikkuse, sageduse, helikiiruse ja pinge vahelised seosed[@physics(lk 468)]. Mis läks nihu pikema klaverikeele pikkuse valemi koostamises?](../klaverikeel-IMG_20231020_093322.jpg)
+
+## Tõlgitud ja lahendatud ülesanded
+
+- Füüsika meetod: 28,
+
+- elektromagnetism: 53,
+
+- mikro- ja megamaailm: 15,
+
+- füüsika ja tehnika: 31.
+
+## Põhjused unustamiseks
+
+1. Õpilased märkisid vastuseid sõltumata sellest, mida nad teadsid või arvasid.
+
+2. Tähelepanu oli hajutatud õpilase enda kõrvalise tegevuse poolt õppimise või kontrollimise kestel.
+
+## Mõõtmise järjekord edaspidi
+
+- Omavalmistatud skeem,
+
+- eestikeelsed reeglid,
+
+- variatsiooniülesanded,
+
+- ametlik brošüür,
+
+- harjutus võõrkeelsete terminitega,
+
+- dimensionaalanalüüs,
+
+- vähemalt kahe sessiooni jagu mõõtmiseksperimente,
+
+- mõõtemääramatuse juhend.
+
+## Elektromagnetism edaspidi
+
+Valemite komplekssus.
+
+## Mikro- ja megamaailm edaspidi
+
+Eeldusteemadeta.
+
+## Füüsika ja tehnika edaspidi
+
+- Kohe asja kallale,
+
+- kuue nädalaga viiendik mooduli teemasid.
+
+## Dilemma
+
+- Kiirkorras kõik õppekavas olevad alamteemad, mille tulemusel ei mäletaks õpilased aasta pärast, mida ja miks nad õppisid, või 
+
+- põhjalikult mingid baasalamteemad, mille tulemusel mäletaksid ja oskaksid kasutada õpilased umbes kümnendikku õpitust.
+
+## Mida vaja?
+
+- Eelnevat ettevalmistust,
+
+- tihedat testimist,
+
+- sõltuvalt olukorrast tervikvalemi tuletamist,
+
+- nõuda eelmiste õpetajate kavasid.
+
+## Välised allikad
 
 ```{=tex}
 \hyphenpenalty=10000
